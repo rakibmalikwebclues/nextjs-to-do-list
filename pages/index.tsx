@@ -1,5 +1,3 @@
-import Head from 'next/head'
-import Image from 'next/image'
 // styles from '../styles/Home.module.css'
 import Forminput from './Forminput'
 import List from './List'
